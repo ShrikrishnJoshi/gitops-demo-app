@@ -1,0 +1,10 @@
+{
+  "name": "gitops-demo-app",
+  "version": "1.0.0",
+  "description": "Local Jenkins and Argo CD GitOps practice",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test"
+  }
+}
